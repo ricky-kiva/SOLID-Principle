@@ -56,3 +56,8 @@ class Cat (
     }
 }*/
 
+// 4 Pillars in OOP:
+// - Inheritance
+// - Encapsulation
+// - Abstraction
+// - Polymorphism
