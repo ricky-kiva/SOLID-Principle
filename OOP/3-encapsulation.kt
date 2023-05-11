@@ -14,3 +14,5 @@ class DataRepository {
     fun getData() = data
 }      
 */
+
+// Encapsulation ensures that data is kept hidden
